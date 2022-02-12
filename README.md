@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Sr. Engineer and Software Archtict at TD Bank
+I'm a Sr. Engineer / Sr. Software Archtict at TD Bank
 I'm also an indie video game developer and found of Wind Powered Games
 
 I am a Java and C# developer with over 30 years of software development experience
